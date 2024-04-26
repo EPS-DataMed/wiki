@@ -1,0 +1,271 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="description" content="Description">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <title>Healthcare</title>
+
+  <!-- Stylesheets -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.14.0/css/all.min.css' rel='stylesheet'>
+  <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600;700;800&family=Poiret+One&display=swap" rel="stylesheet">
+  <!-- Custom CSS -->
+  <style>
+    html {
+      scroll-behavior: smooth;
+    }
+    
+    p {
+      text-indent: 2em;
+    }
+
+    main {
+      background-color: #fcfcfc !important;
+      color: #27272C !important;
+    }
+
+    figure {
+      text-align: center;
+    }
+
+    span, p, div {
+      text-align: justify;
+    }
+
+    img {
+      display: block;
+      margin: 0 auto;
+    }
+
+    span {
+      font-weight: bold !important;
+    }
+
+    strong {
+      color: #2980B9 !important; 
+    }
+
+  
+    
+
+    body {
+      font-family: 'Open Sans' !important;
+    }
+
+    /* Sidebar styles */
+    .sidebar {
+      background: #2980B9 !important;
+      
+    }
+
+    .sidebar p{
+      text-indent: 0em !important;
+      text-align: left;
+      
+    }
+    
+    
+
+    .sidebar strong:not(a strong) {
+      background: inherit !important;
+      padding: 8px !important;
+      border-radius: 5px !important;
+      color: #FCFCFC !important;
+      border: 2px solid #FCFCFC !important;
+    }
+
+    /* Links styles */
+    a {
+      padding-left: 5px !important;
+      color: #27272C !important;
+      transition: all 0.3s ease-out !important;
+      text-decoration: none !important; 
+      font-weight: 500 !important;
+      padding-left: 16px !important;
+    }
+
+   
+    li > a{
+      color: white !important;
+      font-weight: 700 !important;
+    }
+
+    a:hover {
+      color: #0071A1 !important;
+    }
+
+    .section-link {
+      border-color: white !important;
+      color: #FCFCFC !important;
+      transition: all 0.3s ease-out !important;
+      font-weight: 500 !important;
+
+    }
+
+
+    .section-link:hover {
+      color: #0071A1 !important; 
+    }
+
+    .active collapse {
+      color: red !important;
+    }
+
+    input {
+      border-radius: 15px;
+      background: #2980B9 !important;
+      transition: all 0.8s ease-out !important;
+    }
+
+    .input-wrap {
+      padding: 0 15px;
+      background: #FCFCFC !important;
+      border-color: #FCFCFC !important;
+    }
+
+    input:hover, input:focus {
+      background: #27272C !important;
+      border-color: #2980B9 !important;
+    }
+
+    /* Sidebar Toggle Button styles */
+    .sidebar-toggle, .sidebar-toggle-button {
+      width: 36px;
+      border-top-right-radius: 5px !important;
+      border-bottom-right-radius: 5px !important;
+      background: #FCFCFC !important;
+      border: 1px solid #2980B9 !important;
+      color: #2980B9 !important;
+      transition: all 0.3s ease-out !important;
+    }
+
+    .sidebar-toggle:hover, .sidebar-toggle-button:hover {
+      border-top-right-radius: 5px !important;
+      border-bottom-right-radius: 5px !important;
+      background: #2980B9 !important;
+      color: #FCFCFC !important;
+      width: 46px;
+    }
+
+    /* Scrollbar styles */
+    ::-webkit-scrollbar {
+      width: 8px;
+      background-color: #FCFCFC !important;
+    }
+
+    ::-webkit-scrollbar-button {
+      background-color: #FCFCFC !important;
+    }
+
+    ::-webkit-scrollbar-track, ::-webkit-scrollbar-track-piece {
+      background-color: #FCFCFC !important;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      background-color: #2980B9 !important;
+    }
+
+    ::-webkit-scrollbar-corner, ::-webkit-resizer {
+      background-color: #FCFCFC !important;
+    }
+
+    /* Cover and Show styles */
+    .cover, .show {
+      --selection-color: #FCFCFC !important;
+      background: #FCFCFC !important;
+      color: #FCFCFC !important;
+      border-bottom: 2px solid #2980B9;
+    }
+
+    .cover::after, .show::after {
+      --selection-color: #FCFCFC !important;
+      background: #FCFCFC !important;
+      color: #FCFCFC !important;
+    }
+
+    /* Navigation custom CSS item styles */
+    .nav-custom-css-item {
+      color: #FCFCFC !important;
+      background: #27272C !important;
+      padding: 2px 5px !important;
+      margin-right: 25px !important;
+      border-radius: 5px !important;
+      border: 1px solid #FCFCFC !important;
+      transition: all 0.3s ease-out !important;
+    }
+
+    .nav-custom-css-item:hover {
+      color: #27272C !important;
+      background: #2980B9 !important;
+      border: 1px solid #2980B9 !important;
+    }
+
+    .markdown-section table {
+      display: inline-table !important;
+      width: 100%;
+    }
+
+    tr {
+      background-color: inherit !important;
+      
+
+    }
+    thead {
+      background: #2980B9 !important;
+      border-top-left-radius: 15px;
+      border-top-right-radius: 15px;
+    }
+    
+    tbody {
+      background: inherit !important;
+    }
+    thead th {
+      color: #FCFCFC !important;
+      text-align: center !important;
+    }
+
+    thead th:first-child {
+      border-top-left-radius: 4px !important;
+    }
+
+    thead th:last-child {
+      border-top-right-radius: 4px !important;
+    }
+
+   
+    tbody td {
+      text-align: left !important;
+    }
+
+    /* Image styles */
+    img {
+      border-radius: 4px !important;
+    }
+  </style>
+</head>
+<body>
+
+  <div id="app"></div>
+
+  <!-- Scripts -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0"></script>
+  <script src="https://unpkg.com/docsify/lib/plugins/search.js"></script>
+
+  <script>
+    window.$docsify = {
+      coverpage: '_coverpage.md',
+      logo: 'assets/logos/smallLogo.jpeg',
+      themeColor: '#FCFCFC',
+      autoHeader: true,
+      loadSidebar: true,
+      subMaxLevel: 3,
+      name: 'Healthcare',
+      repo: 'https://gitlab.com/fga-eps-rmc/healthtech/healthtech_doc'
+    }
+  </script>
+</body>
+</html>
