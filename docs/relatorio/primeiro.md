@@ -16,9 +16,7 @@ Neste documento, é apresentado o relatório do período inicial do projeto.
 
 ## Relatório de Equipe - Engenharia de Produto de Software
 
-**Equipe:**  DataMed  
-
-**Repositório:** <u> <a href="https://gitlab.com/fga-eps-rmc/healthtech">HealthTech GitLab</a></u>
+**Equipe:**  DataMed
 
 **Cliente:** Fernando Viana  
 
