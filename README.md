@@ -6,7 +6,7 @@ O DataMed é uma Aplicação Web cuja função é ajudar pacientes a compreender
 
 ## Integrantes
 
-Abaixo, nas Tabelas de 1 a 4 a seguir, estão os Grupos e seus integrantes.
+Abaixo, nas Tabelas de 1 a 3 a seguir, estão os Grupos e seus integrantes.
 
 ### Grupo 01
 
@@ -18,7 +18,7 @@ Abaixo, nas Tabelas de 1 a 4 a seguir, estão os Grupos e seus integrantes.
 | Luiz Gustavo Dias Paes Pinheiro     | Desenvolvedor |
 
 <div style="text-align: center">
-<p> Tabela 1: Funções dos membros do grupo 01 (Fonte: autor, 2024). </p>
+<p> Tabela 1: Funções dos membros do grupo 01. </p>
 </div>
 
 ### Grupo 02
@@ -31,23 +31,11 @@ Abaixo, nas Tabelas de 1 a 4 a seguir, estão os Grupos e seus integrantes.
 | Vítor Diniz Pagani Vieira Ribeiro | Desenvolvedor |
 
 <div style="text-align: center">
-<p> Tabela 2: Funções dos membros do grupo 02 (Fonte: autor, 2024). </p>
+<p> Tabela 2: Funções dos membros do grupo 02. </p>
 </div>
+
 
 ### Grupo 03
-
-| Membros                    | Função        |
-| -------------------------- | ------------- |
-| Carla Rocha Cangussú       | Desenvolvedor |
-| Felipe Correia Andrade     | Desenvolvedor |
-| João Paulo Coelho de Souza | Desenvolvedor |
-| Mateus Brandão Teixeira    | Desenvolvedor |
-
-<div style="text-align: center">
-<p> Tabela 3: Funções dos membros do grupo 03 (Fonte: autor, 2024). </p>
-</div>
-
-### Grupo 04
 
 | Membros                     | Função        |
 | --------------------------- | ------------- |
@@ -56,5 +44,5 @@ Abaixo, nas Tabelas de 1 a 4 a seguir, estão os Grupos e seus integrantes.
 | Thiago França Vale Oliveira | Desenvolvedor |
 
 <div style="text-align: center">
-<p> Tabela 4: Funções dos membros do grupo 04 (Fonte: autor, 2024). </p>
+<p> Tabela 4: Funções dos membros do grupo 03. </p>
 </div>

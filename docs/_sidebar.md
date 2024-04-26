@@ -7,6 +7,7 @@
 
 * **Artefatos**
 	* [Lean Inception](reunioes/lean.md)
+	* [Plano de Testes e Qualidade](grupos/grupo_01/plano_de_teste_e_qualidade.md)
 
 * **Entregas**
 	* [Relatórios](relatorio/relatorios.md)
@@ -19,12 +20,9 @@
 
 * **Grupos**
 	* [Grupo 01](grupos/grupo_01)
-		* [Plano de Testes e Qualidade](grupos/grupo_01/plano_de_teste_e_qualidade.md)
+		
 		* [Protótipo](grupos/grupo_01/prototipo.md)
 		* [Backlog](grupos/grupo_01/backlog.md)
 	* [Grupo 02](grupos/grupo_02)
 		* [Protótipo](grupos/grupo_02/prototipo.md)
 		* [Backlog](grupos/grupo_02/backlog.md)
-	* [Grupo 03](grupos/grupo_03)
-		* [Protótipo](grupos/grupo_03/prototipo.md)
-		* [Backlog](grupos/grupo_03/backlog.md)
