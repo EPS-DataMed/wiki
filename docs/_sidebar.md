@@ -8,6 +8,7 @@
 * **Artefatos**
 	* [Lean Inception](reunioes/lean.md)
 	* [Plano de Testes e Qualidade](grupos/grupo_01/plano_de_teste_e_qualidade.md)
+	* [Plano de Gerenciamento de Riscos](sprint/plano_gerenciamento_riscos.md)
 
 * **Entregas**
 	* [Relatórios](relatorio/relatorios.md)
