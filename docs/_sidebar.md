@@ -26,3 +26,6 @@
 	* [Grupo 02](grupos/grupo_02)
 		* [Protótipo](grupos/grupo_02/prototipo.md)
 		* [Backlog](grupos/grupo_02/backlog.md)
+	* [Grupo 03](grupos/grupo_03)
+		* [Protótipo](grupos/grupo_03/prototipo.md)
+		* [Backlog](grupos/grupo_03/backlog.md)
