@@ -7,4 +7,4 @@
 
 <br/>
 <p align="flex-direction: column; justify">
-Nesta seção, encontram-se documentados todos os encontros realizados pelo grupo geral do DataMed, incluindo a lista de participantes e as decisões tomadas durante cada reunião.</p>
+Nesta seção, encontram-se documentados todos os encontros realizados pelo grupo 01 do DataMed, incluindo a lista de participantes e as decisões tomadas durante cada reunião.</p>

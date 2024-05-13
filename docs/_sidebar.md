@@ -1,7 +1,19 @@
 * **Planejamento**
 	* [Reuniões](reunioes/reunioes.md)
 		* [Ata 30/03/2024](reunioes/ata_30_03_2024.md)
+		* [Ata 01/04/2024](reunioes/ata_01_04_2024.md)
+		* [Ata 02/04/2024](reunioes/ata_02_04_2024.md)
+		* [Ata 03/04/2024](reunioes/ata_03_04_2024.md)
+		* [Ata 04/04/2024](reunioes/ata_04_04_2024.md)
 		* [Ata 06/04/2024](reunioes/ata_06_04_2024.md)
+		* [Ata 10/04/2024](reunioes/ata_10_04_2024.md)
+		* [Ata 11/04/2024](reunioes/ata_11_04_2024.md)
+		* [Ata 13/04/2024](reunioes/ata_13_04_2024.md)
+		* [Ata 17/04/2024](reunioes/ata_17_04_2024.md)
+		* [Ata 19/04/2024](reunioes/ata_19_04_2024.md)
+		* [Ata 23/04/2024](reunioes/ata_23_04_2024.md)
+		* [Ata 24/04/2024](reunioes/ata_24_04_2024.md)
+		* [Ata 27/04/2024](reunioes/ata_27_04_2024.md)
 	* [Métricas e Indicadores](sprint/metricas.md)
 		- [Sprint 0](sprint/sprint_0.md)
 
@@ -16,14 +28,16 @@
 
 * **Contribuição**
 	* [Como contribuir](guia_de_contribuicao/como_contribuir.md)
-	<!-- * [Código de conduta](guia_de_contribuicao/codigo_de_conduta.md) -->
+	* [Código de conduta](guia_de_contribuicao/codigo_de_conduta.md)
 	* [Políticas de contribuições](guia_de_contribuicao/politicas_de_contribuicao_do_repositorio.md)
 
 * **Grupos**
 	* [Grupo 01](grupos/grupo_01)
-		
 		* [Protótipo](grupos/grupo_01/prototipo.md)
 		* [Backlog](grupos/grupo_01/backlog.md)
+		* [Reuniões Grupo 01](reunioes/reunioes.md)
+			* [Ata 15/04/2024](reunioes/ata_15_04_2024.md)
+			* [Ata 16/04/2024](reunioes/ata_16_04_2024.md)
 	* [Grupo 02](grupos/grupo_02)
 		* [Protótipo](grupos/grupo_02/prototipo.md)
 		* [Backlog](grupos/grupo_02/backlog.md)
