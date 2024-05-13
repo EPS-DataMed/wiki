@@ -25,6 +25,7 @@
 * **Entregas**
 	* [Relatórios](relatorio/relatorios.md)
 		* [Primeiro Relatório](relatorio/primeiro.md)
+		* [Segundo Relatório](relatorio/segundo.md)
 
 * **Contribuição**
 	* [Como contribuir](guia_de_contribuicao/como_contribuir.md)
@@ -35,9 +36,9 @@
 	* [Grupo 01](grupos/grupo_01)
 		* [Protótipo](grupos/grupo_01/prototipo.md)
 		* [Backlog](grupos/grupo_01/backlog.md)
-		* [Reuniões Grupo 01](reunioes/reunioes.md)
-			* [Ata 15/04/2024](reunioes/ata_15_04_2024.md)
-			* [Ata 16/04/2024](reunioes/ata_16_04_2024.md)
+		* [Reuniões Grupo 01](reunioes_grupo01/reunioes.md)
+			* [Ata 15/04/2024](reunioes_grupo01/ata_15_04_2024.md)
+			* [Ata 16/04/2024](reunioes_grupo01/ata_16_04_2024.md)
 	* [Grupo 02](grupos/grupo_02)
 		* [Protótipo](grupos/grupo_02/prototipo.md)
 		* [Backlog](grupos/grupo_02/backlog.md)
