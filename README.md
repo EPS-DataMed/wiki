@@ -1,3 +1,5 @@
+# DataMed
+
 ## Sobre
 
 O DataMed é uma Aplicação Web cuja função é ajudar pacientes a compreenderem melhor informações sobre sua saúde de uma maneira intuitiva e prática e possibilitar a negociação de dados dos mesmos com profissionais da área da saúde, a fim de facilitar pesquisas médicas.
@@ -12,7 +14,6 @@ Abaixo, nas Tabelas de 1 a 3 a seguir, estão os Grupos e seus integrantes.
 
 | Membros                             | Função        |
 | ----------------------------------- | ------------- |
-| Arthur de Melo Garcia               | Desenvolvedor |
 | Daniel de Sousa Oliveira Melo Veras | Desenvolvedor |
 | Lucas Gabriel Sousa Camargo Paiva   | Desenvolvedor |
 | Luiz Gustavo Dias Paes Pinheiro     | Desenvolvedor |
@@ -39,10 +40,9 @@ Abaixo, nas Tabelas de 1 a 3 a seguir, estão os Grupos e seus integrantes.
 
 | Membros                     | Função        |
 | --------------------------- | ------------- |
-| Elias Yousef Santana Ali    | Desenvolvedor |
 | Sávio Cunha de Carvalho     | Desenvolvedor |
 | Thiago França Vale Oliveira | Desenvolvedor |
 
 <div style="text-align: center">
-<p> Tabela 4: Funções dos membros do grupo 03. </p>
+<p> Tabela 3: Funções dos membros do grupo 03. </p>
 </div>
