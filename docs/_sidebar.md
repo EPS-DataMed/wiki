@@ -19,6 +19,7 @@
 		* [Ata 08/05/2024](reunioes/ata_08_05_2024.md)
 		* [Ata 15/05/2024](reunioes/ata_15_05_2024.md)
 		* [Ata 17/05/2024](reunioes/ata_17_05_2024.md)
+		* [Ata 18/05/2024](reunioes/ata_18_05_2024.md)
 	* [Métricas e Indicadores](sprint/metricas.md)
 		- [Sprint 0](sprint/sprint_0.md)
 
