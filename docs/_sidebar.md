@@ -46,6 +46,7 @@
 			* [Ata 15/04/2024](reunioes_grupo01/ata_15_04_2024.md)
 			* [Ata 16/04/2024](reunioes_grupo01/ata_16_04_2024.md)
 			* [Ata 17/05/2024](reunioes_grupo01/ata_17_05_2024.md)
+			* [Ata 21/05/2024](reunioes_grupo01/ata_21_05_2024.md)
 	* [Grupo 02](grupos/grupo_02)
 		* [Protótipo](grupos/grupo_02/prototipo.md)
 		* [Backlog](grupos/grupo_02/backlog.md)
