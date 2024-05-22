@@ -1,7 +1,19 @@
-# Relatório: Desenvolvimento de um Sistema para Processamento de Dados Médicos a partir de Arquivos PDF e Integração com Formulário React
+<br/>
 
-## Objetivo
+<div style="display: flex; justify-content: center; align-items:center;">
+    <img src="https://dansousamelo.github.io/RQ_ISP/assets/PROTOTIPO.png" width="200" height="200" style="filter: brightness(0%);" />
+</div>
+
+<br/>
+
 O objetivo deste relatório é apresentar as ideias iniciais do estudo e pesquisa que vão nos permitir desenvolver um sistema que permita aos usuários enviar arquivos PDF contendo informações médicas de pacientes, extrair esses dados dos arquivos PDF, armazená-los em um banco de dados PostgreSQL e, em seguida, exibi-los dinamicamente em um formulário desenvolvido com React. Este relatório detalha as ideias, possibilidades e passos para alcançar esse objetivo. Ele se estrutura em ideias de uma pesquisa inicial, tudo aqui será debatido e avaliado em reuniões em grupo documentadas no projeto, a fim de encontrar o melhor caminho para o desenvolvimento desta ação.
+
+## Histórico de versões
+
+| Versão |    Data    |      Descrição       |                      Autor(es)                       | Revisor(es) |
+| :----: | :--------: | :------------------: | :--------------------------------------------------: | :---------: |
+| `1.0`  | 16/04/2024 | Criação do Documento do Protótipo | Luiz Gustavo |      -      |
+
 
 ## Visão Geral
 O sistema é mais complexo do que o relatado aqui, mas de maneira geral e para simplificar para esta parte do estudo e do desenvolvimento, vamos ter a visão que o sistema será composto por duas partes principais: uma API em Python para processamento de dados e integração com o banco de dados, e um frontend desenvolvido com React para exibir os dados em um formulário amigável para o usuário.
@@ -41,6 +53,6 @@ O sistema é mais complexo do que o relatado aqui, mas de maneira geral e para s
 ## Considerações Finais
 Este relatório detalha uma das possíveis abordagens para desenvolver um sistema para processamento de dados médicos a partir de arquivos PDF e integração com um formulário React. A combinação de uma API em Python para processamento de dados e um frontend React para interação com o usuário fornecerá uma solução eficaz e amigável para o gerenciamento de informações médicas dos pacientes. Mas ainda existem alguns detalhes importantes que precisam ser levados em consideração, como a robustez do sistema, a escalabilidade e a segurança. Além desta não ser a única opção viável, podendo e possivelmente sendo implementado em conjunto com outras opções, técnicas (OCR (Reconhecimento Óptico de Caracteres), Processamento de Linguagem Natural (NLP), Aprendizado de Máquina, Serviços de Processamento de Documentos em Nuvem). Todos os dados e informações aqui não são uma definição, mas ideias que serão levantadas e documentadas em discussões em grupo.
 
-## Fontes
+## Referências
 - Klippa Blog. "Extraindo dados de documentos PDF." Disponível em: [https://www.klippa.com/pt/blog/informacao/extrair-dados-documentos-pdf/](https://www.klippa.com/pt/blog/informacao/extrair-dados-documentos-pdf/)
 - YouTube. "Extraindo dados de PDF com Python." Disponível em: [https://www.youtube.com/watch?v=x9IDL8eruAw](https://www.youtube.com/watch?v=x9IDL8eruAw)

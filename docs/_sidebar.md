@@ -27,6 +27,8 @@
 	* [Lean Inception](reunioes/lean.md)
 	* [Plano de Testes e Qualidade](grupos/grupo_01/plano_de_teste_e_qualidade.md)
 	* [Plano de Gerenciamento de Riscos](sprint/plano_gerenciamento_riscos.md)
+	* [Protótipo](prototipo/prototipo.md)
+	* [Backlog](backlog/backlog.md)
 
 * **Entregas**
 	* [Relatórios](relatorio/relatorios.md)
@@ -43,16 +45,9 @@
 
 * **Grupos**
 	* [Grupo 01](grupos/grupo_01)
-		* [Protótipo](grupos/grupo_01/prototipo.md)
-		* [Backlog](grupos/grupo_01/backlog.md)
 		* [Reuniões Grupo 01](reunioes_grupo01/reunioes.md)
 			* [Ata 15/04/2024](reunioes_grupo01/ata_15_04_2024.md)
 			* [Ata 16/04/2024](reunioes_grupo01/ata_16_04_2024.md)
 			* [Ata 17/05/2024](reunioes_grupo01/ata_17_05_2024.md)
 			* [Ata 21/05/2024](reunioes_grupo01/ata_21_05_2024.md)
 	* [Grupo 02](grupos/grupo_02)
-		* [Protótipo](grupos/grupo_02/prototipo.md)
-		* [Backlog](grupos/grupo_02/backlog.md)
-	* [Grupo 03](grupos/grupo_03)
-		* [Protótipo](grupos/grupo_03/prototipo.md)
-		* [Backlog](grupos/grupo_03/backlog.md)

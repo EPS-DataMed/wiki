@@ -18,15 +18,15 @@ Protótipos de alta fidelidade são uma peça central no design e desenvolviment
 
 ## Telas
 <div align="justify">
-&emsp;&emsp;Abaixo encontram-se o protótipo completo da aplicação desenvolvido no Figma, uma poderosa ferramenta de design colaborativo. O Figma permite que equipes trabalhem simultaneamente em projetos, facilitando a criação de interfaces de usuário intuitivas e agradáveis. Com sua interface amigável e recursos robustos, o Figma é amplamente utilizado por designers e equipes de desenvolvimento em todo o mundo. Explore o protótipo interativo abaixo para ter uma visão abrangente do trabalho realizado.
+&emsp;&emsp;Abaixo encontram-se o protótipo completo da aplicação desenvolvido no Figma, uma poderosa ferramenta de design colaborativo. O Figma permite que equipes trabalhem simultaneamente em projetos, facilitando a criação de interfaces de usuário intuitivas e agradáveis. Com sua interface amigável e recursos robustos, o Figma é amplamente utilizado por designers e equipes de desenvolvimento em todo o mundo. Explore o protótipo interativo abaixo para ter uma visão abrangente do trabalho realizado.</div>
 <br/>
 
 
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items:center;">
-   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F1dpqTkNRHpdYYgkIXuLG39%2FReadFile%3Ftype%3Ddesign%26node-id%3D0%253A1%26mode%3Ddesign%26t%3DuehFYRMPloqxycdQ-1" allowfullscreen></iframe>
+   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FB552BhraTpeYUf2Gpb6x5C%2FDataMed%3Fnode-id%3D0%253A1%26t%3DdbnXNbCKyexLrobQ-1" allowfullscreen></iframe>
     <figure style="font-style: italic;">
-    Aguarde o carregamento da visualização, ou se preferir vá direto ao link<a href="https://www.figma.com/file/1dpqTkNRHpdYYgkIXuLG39/ReadFile?type=design&mode=design&t=fuW2qKRRQfiGTXkE-1"><u>aqui</u></a>.
+    Aguarde o carregamento da visualização, ou se preferir vá direto ao link<a href="https://www.figma.com/design/B552BhraTpeYUf2Gpb6x5C/DataMed?node-id=0%3A1&t=dbnXNbCKyexLrobQ-1"><u>aqui</u></a>.
 </figure>
 </div>
 
