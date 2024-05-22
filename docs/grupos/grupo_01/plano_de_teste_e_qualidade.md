@@ -14,20 +14,37 @@ Neste documento, estão delineadas a estratégia de testes que será utilizada p
 | :----: | :--------: | :----------------------------------: | :--------------------------------------------------: | :---------: |
 | `1.0`  | 16/04/2024 | Criando documento de Plano de Teste e Qualidade | [Grupo 01](/grupos/grupo_01?id=integrantes-do-grupo) |      -      |
 
-O projeto será conduzido utilizando a metodologia de Desenvolvimento Orientado a Testes (TDD), que é uma abordagem de desenvolvimento de software onde os testes são escritos antes do código de produção. Isso garante que o código seja desenvolvido de forma mais robusta e confiável, pois cada funcionalidade é validada por testes automatizados.
+O projeto será conduzido utilizando a metodologia de **_Desenvolvimento Orientado a Testes (TDD)_**, que é uma abordagem de desenvolvimento de software onde os testes são escritos antes do código de produção. Isso garante que o código seja desenvolvido de forma mais robusta e confiável, pois cada funcionalidade é validada por testes automatizados.
 
-No frontend, a tecnologia escolhida é React com TypeScript (TS). React é uma biblioteca JavaScript amplamente utilizada para construir interfaces de usuário, enquanto TypeScript adiciona tipagem estática ao JavaScript, proporcionando mais segurança e robustez ao código.
+No frontend, a tecnologia escolhida é **_React com TypeScript (TS)_**. **_React_** é uma biblioteca JavaScript amplamente utilizada para construir interfaces de usuário, enquanto **_TypeScript_** adiciona tipagem estática ao JavaScript, proporcionando mais segurança e robustez ao código.
 
-Para os testes unitários no frontend, serão utilizadas ferramentas e bibliotecas adequadas para o ambiente React, como Jest e React Testing Library e cypress. Estas ferramentas permitem escrever e executar testes de forma eficiente e abrangente, garantindo a qualidade do código produzido.
+Para os testes unitários no frontend, serão utilizadas ferramentas e bibliotecas adequadas para o ambiente React, como **_Jest_** e **_React Testing Library_** e **_Cypress_**. Estas ferramentas permitem escrever e executar testes de forma eficiente e abrangente, garantindo a qualidade do código produzido.
 
-O Cypress é uma ferramenta de teste end-to-end (E2E) que permite simular interações do usuário em um navegador web real. Ele é especialmente útil para testar fluxos de usuário complexos e garantir que a aplicação funcione conforme o esperado do ponto de vista do usuário final. Com o Cypress, os desenvolvedores podem escrever testes descritivos que interagem com o aplicativo da mesma forma que um usuário real, clicando em botões, preenchendo formulários e navegando entre páginas. Além disso, o Cypress oferece assertivas poderosas para verificar o comportamento esperado do aplicativo, proporcionando uma maneira confiável de garantir a qualidade e a integridade do código front-end.
+O **_Cypress_** é uma ferramenta de teste end-to-end (E2E) que permite simular interações do usuário em um navegador web real. Ele é especialmente útil para testar fluxos de usuário complexos e garantir que a aplicação funcione conforme o esperado do ponto de vista do usuário final. Com o **_Cypress_**, os desenvolvedores podem escrever testes descritivos que interagem com o aplicativo da mesma forma que um usuário real, clicando em botões, preenchendo formulários e navegando entre páginas. Além disso, o **_Cypress_** oferece assertivas poderosas para verificar o comportamento esperado do aplicativo, proporcionando uma maneira confiável de garantir a qualidade e a integridade do código front-end.
 
-Por outro lado, o Jest é uma estrutura de teste de código aberto mantida pelo Facebook. Ele é amplamente utilizado para testes unitários. O Jest é conhecido por sua simplicidade de uso, velocidade de execução e integração perfeita com outras ferramentas populares, como Babel e Webpack. Ele oferece uma variedade de funcionalidades poderosas, como mocks automáticos, snapshots de componentes e suporte a testes assíncronos, tornando-o uma escolha ideal para desenvolvedores que desejam garantir a qualidade do código front-end por meio de testes abrangentes e confiáveis.
+Por outro lado, o **_Jest_** é uma estrutura de teste de código aberto mantida pelo Facebook. Ele é amplamente utilizado para testes unitários. O **_Jest_** é conhecido por sua simplicidade de uso, velocidade de execução e integração perfeita com outras ferramentas populares, como Babel e Webpack. Ele oferece uma variedade de funcionalidades poderosas, como mocks automáticos, snapshots de componentes e suporte a testes assíncronos, tornando-o uma escolha ideal para desenvolvedores que desejam garantir a qualidade do código front-end por meio de testes abrangentes e confiáveis.
 
-No backend, a linguagem escolhida é Java, uma linguagem de programação popular e amplamente utilizada para desenvolvimento de aplicativos empresariais e sistemas distribuídos.
+No backend, a linguagem escolhida é **_Java_**, uma linguagem de programação popular e amplamente utilizada para desenvolvimento de aplicativos empresariais e sistemas distribuídos.
 
-Para os teste serão utilizadas as bibliotecas JUnit e Mockito. O JUnit é um framework de teste de código aberto para Java, amplamente utilizado para escrever e executar testes unitários e o Mockito é uma biblioteca de mocking para Java que facilita a criação de mocks e stubs de objetos em testes unitários.
+Para os testes serão utilizadas as bibliotecas **_JUnit_** e **_Mockito_**. O **_JUnit_** é um framework de teste de código aberto para Java, amplamente utilizado para escrever e executar testes unitários, e o **_Mockito_** é uma biblioteca de mocking para Java que facilita a criação de mocks e stubs de objetos em testes unitários.
 
-Para garantir a qualidade do código Java e realizar testes estáticos, será utilizado o Quodana, uma ferramenta de análise estática de código que ajuda a identificar possíveis problemas e vulnerabilidades no código-fonte.
+Para garantir a qualidade do código Java e realizar testes estáticos, será utilizado o **_Quodana_**, uma ferramenta de análise estática de código que ajuda a identificar possíveis problemas e vulnerabilidades no código-fonte.
 
 Com essa abordagem, espera-se desenvolver um software de alta qualidade, com testes abrangentes e uma arquitetura robusta tanto no frontend quanto no backend.
+
+
+## Referências
+
+- React: Uma biblioteca JavaScript para construir interfaces de usuário. Disponível em: https://reactjs.org/
+
+- TypeScript: Um superconjunto de JavaScript que adiciona tipagem estática. Disponível em: https://www.typescriptlang.org/
+
+- Jest: Uma estrutura de teste de código aberto mantida pelo Facebook. Disponível em: https://jestjs.io/
+
+- Cypress: Uma ferramenta de teste end-to-end (E2E) para aplicativos web. Disponível em: https://www.cypress.io/
+
+- JUnit: Um framework de teste de código aberto para Java. Disponível em: https://junit.org/junit5/
+
+- Mockito: Uma biblioteca de mocking para Java que facilita a criação de mocks e stubs de objetos em testes unitários. Disponível em: https://site.mockito.org/
+
+- Quodana: Uma ferramenta de análise estática de código para Java. Disponível em: https://www.quodana.com/
