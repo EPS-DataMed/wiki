@@ -33,6 +33,9 @@
 		* [Primeiro Relatório](relatorio/primeiro.md)
 		* [Segundo Relatório](relatorio/segundo.md)
 
+* **Estudos**
+	* [Processamento de Dados](estudos/dataprocess.md)
+
 * **Contribuição**
 	* [Como contribuir](guia_de_contribuicao/como_contribuir.md)
 	* [Código de conduta](guia_de_contribuicao/codigo_de_conduta.md)
