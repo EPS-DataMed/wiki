@@ -9,6 +9,7 @@
 	* [Plano de Gerenciamento de Riscos](sprint/plano_gerenciamento_riscos.md)
 	* [Protótipo](prototipo/prototipo.md)
 	* [Backlog](backlog/backlog.md)
+	* [Arquitetura de Software](arquitetura/arquetura.md)
 
 * **Entregas**
 	* [Relatórios](relatorio/relatorios.md)
