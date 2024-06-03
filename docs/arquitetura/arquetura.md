@@ -10,7 +10,7 @@
 
 | Versão |    Data    |              Descrição               |                      Autor(es)                       | Revisor(es) |
 | :----: | :--------: | :----------------------------------: | :--------------------------------------------------: | :---------: |
-| `1.0`  | 24/04/2024 | Criando documento de Plano de Teste e Qualidade | Todos do grupo|      -      |
+| `1.0`  | 24/04/2024 | Criando documento de Arquitetura | Todos do grupo|      -      |
 
 ## 1. Introdução
 

@@ -17,27 +17,27 @@ Este documento tem como objetivo apresentar os integrantes do Grupo 02 e fornece
 
 ## Contexto do Grupo
 
-O Grupo 21 está envolvido em um projeto para a disciplina EPS (Engenharia de Produto de Software). Este projeto tem como objetivo atender às necessidades do cliente Fernando Viana. O grupo será responsável por implementar as funcionalidades listadas no [Backlog do Produto referente ao Grupo 01](../grupos/grupo_02/backlog.md).
+O Grupo 21 está envolvido em um projeto para a disciplina EPS (Engenharia de Produto de Software). Este projeto tem como objetivo atender às necessidades do cliente Fernando Viana. O grupo será responsável por implementar as funcionalidades listadas no [Backlog do Produto referente ao Grupo 01](/docs/backlog/backlog.md).
 
 ## Integrantes do Grupo
 
 | Integrante                          | 
 | ----------------------------------- |
-| Antônio Rangel Chaves              |
+| Antonio Rangel Chaves              |
 | Kess Jhones Gomes Tavares |
 | Victor Amaral Cerqueira   |
 | Vítor Diniz Pagani Vieira Ribeiro     |
 
 ## Responsabilidades dos Integrantes
 
-- **Antônio Rangel Chaves**: Desenvolvedor.
+- **Antonio Rangel Chaves**: Desenvolvedor.
 - **Kess Jhones Gomes Tavaress**: Desenvolvedor.
 - **Victor Amaral Cerqueira**: Desenvolvedor.
 - **Vítor Diniz Pagani Vieira Ribeiro**: Desenvolvedor.
 
 ## Metas e Objetivos
 
-As metas e objetivos do Grupo 02 incluem realizar as atividades previstas do Backlog do Produto.
+As metas e objetivos do Grupo 02 incluem realizar as Histórias de Usuário contidas no [Épico 2](/backlog/backlog?id=Épicos) - Gerência de Pacientes
 
 ## Conclusão e Próximos Passos
 
