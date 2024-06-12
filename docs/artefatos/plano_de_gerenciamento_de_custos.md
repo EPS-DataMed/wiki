@@ -17,7 +17,7 @@ Baseado na matéria 'Raio-X do custo por aluno nas universidades federais', publ
 Com base nessas especificações, foi feita uma pesquisa de preços de computadores com essas especificações e foi definido que o computador que melhor atende a essas especificações é o: Notebook Lenovo IdeaPad 1i 14" por R$3.059,99. Deste modo, o custo total de aquisição é o custo de 15 computadores, que é de R$45.899,85.
 
 A planilha de custos pode ser observada na Figura 1 a seguir:
-![Figura 1 - Planilha de custos.](./assets/planilha-custos.png)
+![Figura 1 - Planilha de custos.](../assets/planilha-custos.png)
 
 <center> Figura 1 - Planilha de custos.</center>
 
