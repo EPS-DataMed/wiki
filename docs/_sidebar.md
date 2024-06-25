@@ -13,7 +13,12 @@
 	* [Plano de Custos](artefatos/plano_de_gerenciamento_de_custos.md)
 	* [Protótipo](prototipo/prototipo.md)
 	* [Backlog](backlog/backlog.md)
-	* [Arquitetura de Software](arquitetura/arquetura.md)
+
+* **Arquitetura**
+	* [Componentes](microservice/microservice.md)
+	* [Tecnologias](arquitetura/arquetura.md)
+
+
 
 * **Entregas**
 	* [Relatórios](relatorio/relatorios.md)
@@ -32,3 +37,4 @@
 	* [Grupo 01](grupos/grupo_01)
 		* [Reuniões Grupo 01](reunioes_grupo01/reunioes.md)
 	* [Grupo 02](grupos/grupo_02)
+
