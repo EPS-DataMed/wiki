@@ -18,6 +18,8 @@
 	* [Componentes](microservice/microservice.md)
 	* [Tecnologias](arquitetura/arquetura.md)
 
+* **Validação do Software**
+	* [Feedback](feedback/feedback.md)
 
 
 * **Entregas**
