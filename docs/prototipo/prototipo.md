@@ -24,9 +24,9 @@ Protótipos de alta fidelidade são uma peça central no design e desenvolviment
 
 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items:center;">
-   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fdesign%2FB552BhraTpeYUf2Gpb6x5C%2FDataMed%3Fnode-id%3D0%253A1%26t%3DdbnXNbCKyexLrobQ-1" allowfullscreen></iframe>
+   <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/file/1387543692015741642/hf_embed?community_viewer=true&embed_host=fastma&fuid=775860797041235232&kind=file&viewer=1" allowfullscreen></iframe>
     <figure style="font-style: italic;">
-    Aguarde o carregamento da visualização, ou se preferir vá direto ao link<a href="https://www.figma.com/design/B552BhraTpeYUf2Gpb6x5C/DataMed?node-id=0%3A1&t=dbnXNbCKyexLrobQ-1"><u>aqui</u></a>.
+    Aguarde o carregamento da visualização, ou se preferir vá direto ao link<a href="https://www.figma.com/community/file/1387543692015741642/datamed"><u>aqui</u></a>.
 </figure>
 </div>
 
