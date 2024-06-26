@@ -23,14 +23,12 @@ O Grupo 01 está envolvido em um projeto para a disciplina EPS (Engenharia de Pr
 
 | Integrante                          | 
 | ----------------------------------- |
-| Arthur de Melo Garcia               |
 | Daniel de Sousa Oliveira Melo Veras |
 | Lucas Gabriel Sousa Camargo Paiva   |
 | Luiz Gustavo Dias Paes Pinheiro     |
 
 ## Responsabilidades dos Integrantes
 
-- **Arthur de Melo Garcia**: Desenvolvedor.
 - **Daniel de Sousa Oliveira Melo Veras**: Desenvolvedor.
 - **Lucas Gabriel Sousa Camargo Paiva**: Desenvolvedor.
 - **Luiz Gustavo Dias Paes Pinheiro**: Desenvolvedor.
