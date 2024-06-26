@@ -135,7 +135,7 @@ Nesta seção, são discutidos os requisitos não funcionais relacionados à seg
 | Eu como administrador quero backup e recuperação de dados    | Must       |
 | Eu como administrador quero histórico de versões de dados    | Could      |
 
-#### Blockchain
+#### Comercialização
 | User Story (História de Usuário)                              | MoSCoW |
 |--------------------------------------------------------------|-----------------|
 | Eu como administrador quero anonimização de dados            | Should     |
