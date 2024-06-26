@@ -24,28 +24,6 @@ As histórias de usuários são agrupadas e organizadas de acordo com seus épic
 
 E por fim, para calcular a pontuação de cada história, foi utilizada a sequência de Fibonacci. Este método reconhece a importância de atribuir valores que representem com precisão a complexidade relativa de cada tarefa. A sequência de Fibonacci, conhecida por seu crescimento exponencial, foi usada para criar um sistema que efetivamente abrange as variações de esforço e complexidade. As pontuações, que variam de 0 a 13, foram organizadas de maneira a facilitar a priorização de histórias, otimizar o uso de recursos e tornar o desenvolvimento o mais eficiente possível (Conh, 2005). 
 
-
-## Requisitos Funcionais
-Neste tópico, apresentam-se as histórias de usuários organizadas de acordo com seus respectivos épicos e derivam dos requisitos funcionais coletados durante a fase de coleta e refinamento dos requisitos. Cada um destes épicos, juntamente com suas histórias de usuários correspondentes, é descrito em detalhes nas subseções seguintes.
-
-### Envio de Exames
-Permite anexar exames de um paciente e extrair informações relevantes através do processamento avançado de dados.
-
-### Cartão
-Permite o usuário gerar e personalizar um cartão de informações.
-
-
-<br />
-A seguir, são apresentadas as histórias de usuário dos épicos em questão.
-
-<div style="display: flex; flex-direction: column; justify-content: center; align-items:center;">
-    <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FGrKcl3XqGJAJjkbnnWKexq%2FBacklog---Grupo-1%3Ftype%3Ddesign%26mode%3Ddesign%26t%3DfuW2qKRRQfiGTXkE-1" allowfullscreen></iframe>
-    <figure style="font-style: italic;">
-    Aguarde o carregamento da visualização, ou se preferir vá direto ao link<a href="https://www.figma.com/file/GrKcl3XqGJAJjkbnnWKexq/Backlog---Grupo-1?type=design&mode=design&t=fuW2qKRRQfiGTXkE-1"><u>aqui</u></a>.
-</figure>
-</div>
-
-
 ## Requisitos não funcionais
 Neste tópico, são apresentados os requisitos não funcionais, os quais foram organizados em 5 categorias distintas: usabilidade, portabilidade, confiabilidade, eficiência e segurança. Os detalhes específicos de cada categoria serão abordados a seguir.
 
@@ -102,11 +80,11 @@ Nesta seção, são discutidos os requisitos não funcionais relacionados à seg
 
 Épicos no backlog do produto representam grandes iniciativas ou metas de alto nível que são desmembradas em tarefas menores. Eles são usados para agrupar um conjunto de funcionalidades ou requisitos que, juntos, contribuem significativamente para o desenvolvimento de um produto. Esses épicos são uma ferramenta fundamental para gerenciar projetos complexos e manter o foco nas metas estratégicas. À medida que a equipe avança, os épicos são decompostos em histórias de usuário mais detalhadas e viáveis.
 
-| ID | Épico | Grupo responsável |
+<!-- | ID | Épico | Grupo responsável |
 |:--:|:-----:|:-----------------:|
 | EP 01 | Gerência de Pacientes | Grupo 2 |
 | EP 02 | Dados de Saúde | Grupo 1 e 2 |
-| EP 03 | Agendamento de consultas | Grupo 3 |
+| EP 03 | Agendamento de consultas | Grupo 3 | -->
 
 
 ### Histórias de Usuário

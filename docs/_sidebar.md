@@ -32,7 +32,7 @@
 
 * **Contribuição**
 	* [Como contribuir](guia_de_contribuicao/como_contribuir.md)
-	* [Código de conduta](guia_de_contribuicao/codigo_de_conduta.md)
+	<!-- * [Código de conduta](guia_de_contribuicao/codigo_de_conduta.md) -->
 	* [Políticas de contribuições](guia_de_contribuicao/politicas_de_contribuicao_do_repositorio.md)
 
 * **Grupos**
