@@ -80,51 +80,83 @@ Nesta seção, são discutidos os requisitos não funcionais relacionados à seg
 
 Épicos no backlog do produto representam grandes iniciativas ou metas de alto nível que são desmembradas em tarefas menores. Eles são usados para agrupar um conjunto de funcionalidades ou requisitos que, juntos, contribuem significativamente para o desenvolvimento de um produto. Esses épicos são uma ferramenta fundamental para gerenciar projetos complexos e manter o foco nas metas estratégicas. À medida que a equipe avança, os épicos são decompostos em histórias de usuário mais detalhadas e viáveis.
 
-<!-- | ID | Épico | Grupo responsável |
-|:--:|:-----:|:-----------------:|
-| EP 01 | Gerência de Pacientes | Grupo 2 |
-| EP 02 | Dados de Saúde | Grupo 1 e 2 |
-| EP 03 | Agendamento de consultas | Grupo 3 | -->
+#### Autenticação
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como usuário quero fazer sign up                          | Must       |
+| Eu como usuário quero fazer log in                           | Must       |
+| Eu como usuário quero recuperar minha senha                  | Must       |
 
+#### Termos de Uso
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como usuário quero gerar um PDF com termos de uso         | Should     |
+| Eu como usuário quero me descadastrar dos termos             | Should     |
 
-### Histórias de Usuário
+#### Usuário
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como usuário quero editar meu perfil                      | Must       |
+| Eu como administrador quero listar informações de usuários   | Must       |
+| Eu como administrador quero atribuir dependentes a um usuário| Should     |
+| Eu como usuário quero confirmar dependência                  | Should     |
+| Eu como administrador quero excluir um dependente            | Should     |
 
-Histórias de usuário são uma técnica de documentação amplamente utilizada no desenvolvimento de software ágil. Elas são pequenas descrições de funcionalidades ou requisitos do ponto de vista do usuário. Cada história de usuário é uma narrativa concisa que descreve o que um usuário deseja alcançar ao interagir com um sistema ou software. Essas histórias são fundamentais para entender as necessidades do cliente e guiar o desenvolvimento de software centrado no usuário. Elas geralmente seguem um formato simples e são uma parte essencial do backlog do produto.
+#### Processamento de Exames
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como usuário quero enviar exames médicos para processamento| Must      |
+| Eu como usuário quero extrair corretamente dados de saúde    | Must       |
+| Eu como administrador quero criar formulários                | Should     |
+| Eu como administrador quero editar formulários               | Should     |
+| Eu como usuário quero listar formulários                     | Should     |
 
-| Épico | ID | História de Usuário | Prioridade |
-|:-----:|:--:|:-------------------:|:----------:|
-| EP 01 | US 01 | Eu, como Usuário, desejo fazer login no DataMed | Must |
-| EP 01 | US 02 | Eu, como Usuário, desejo fazer logout no DataMed | Must |
-| EP 01 | US 03 | Eu, como Usuário, desejo me cadastrar no DataMed | Must |
-| EP 01 | US 04 | Eu, como Usuário, desejo editar meus dados cadastrados | Must |
-| EP 01 | US 05 | Eu, como Usuário, desejo excluir minha conta doo DataMed | Must |
-| EP 01 | US 06 | Eu, como Usuário, desejo cadastrar meus dependentes no DataMed | Must |
-| EP 01 | US 07 | Eu, como Usuário, desejo editar os dados dos meus dependentes no DataMed | Must |
-| EP 01 | US 08 | Eu, como Usuário, desejo excluir as contas dos meus dependentes no DataMed | Must |
-| EP 02 | US 31 | Eu, como usuário, desejo cadastrar meus dados de saúde | Must |
-| EP 02 | US 09 | Eu, como Usuário, gostaria de visualizar um histórico detalhado de todos os exames realizados meus ou de meus dependentes. | Should |
-| EP 02 | US 10 | Eu, como Usuário, gostaria de realizar upload de exames no formato PDF | Must |
-| EP 02 | US 11 | Eu, como Usuário, gostaria que o sistema me guiasse no processo de preencher os dados de saúde | Could |
-| EP 02 | US 12 | Eu, como Usuário, gostaria que o sistema enviasse o cartão por E-mail | Could |
-| EP 02 | US 13 | Eu, como Usuário, gostaria de que os dados contidos nos exames enviados por PDF fossem processados automaticamente | Should |
-| EP 02 | US 14 | Eu, como Usuário, gostaria de preencher um formulário manualmente para o envio de exames | Must |
-| EP 02 | US 15 | Eu, como Usuário, gostaria de gerar um cartão contendo resumo dos meus dados médicos ou de meus dependentes | Must |
-| EP 02 | US 16 | Eu, como Usuário, gostaria de imprimir um cartão contendo resumo dos meus dados médicos ou de meus dependentes | Must |
-| EP 02 | US 32 | Eu, como Usuário, gostaria de adicionar documentos pdf e imagens em um campo "Informações adicionais", no momento de preencher os dados de saúde | Must |
-| EP 03 | US 17 | Eu, como Administrador, gostaria de cadastrar novas instituições fornecendo nome, tipo, endereço e contato para expandir a rede de atendimento disponível no sistema. | Must |
-| EP 03 | US 18 | Eu, como Administrador, gostaria de adicionar especialidades disponíveis em cada instituição durante o cadastro para que os pacientes possam escolher corretamente onde querem ser atendidos | Must |
-| EP 03 | US 19 | Eu, como Administrador, gostaria de atualizar ou remover instituições já cadastradas para garantir que a informação no sistema esteja sempre atualizada e correta | Must |
-| EP 03 | US 20 | Eu, como Administrador, gostaria de visualizar todas as informações de uma instituição, incluindo detalhes como especialidades oferecidas e médicos disponíveis, para gerenciar eficientemente as instituições. | Must |
-| EP 03 | US 21 | Eu, como Administrador, gostaria de editar os detalhes das especialidades para corrigir erros ou atualizar informações. | Must |
-| EP 03 | US 22 | Eu, como Administrador, gostaria de remover especialidades que não são mais oferecidas para evitar confusões no agendamento de consultas. | Must |
-| EP 03 | US 23 | Eu, como Administrador, gostaria de cadastrar colaboradores no sistema, incluindo informações como nome, CPF e e-mail, para que eles possam ser associados a consultas e especialidades. | Must |
-| EP 03 | US 24 | Eu, como Administrador, gostaria de associar colaboradores às instituições em que trabalham para que os pacientes possam agendar consultas corretamente. | Must |
-| EP 03 | US 25 | Eu, como Administrador, gostaria de atualizar as informações dos colaboradores ou remover colaboradores do sistema quando necessário | Must |
-| EP 03 | US 26 | Eu, como Usuário, gostaria de ter a opção de realizar um agendamento diretamente pelo sistema, facilitando a gestão do meu tempo e evitando deslocamentos desnecessários. | Must |
-| EP 03 | US 27 | Eu, como Usuário, gostaria de ter a opção de cancelar ou fazer um reagendamento diretamente pelo sistema, facilitando a gestão do meu tempo e evitando deslocamentos desnecessários. | Must |
-| EP 03 | US 28 | Eu, como Usuário, gostaria de poder modificar os detalhes de um agendamento em caso de necessidade, como alterações no horário ou no médico designado, para acomodar. | Should |
-| EP 03 | US 29 | Eu, como Usuário, gostaria de poder confirmar ou recusar pedidos de reagendamento ou cancelamento para manter a ordem e eficiência dos agendamentos | Must |
-| EP 03 | US 30 | Eu, como Usuário, gostaria de visualizar todas as minhas consultas agendadas, incluindo datas, horários, colaboradores e instituições, para que eu possa gerenciar meu tempo e compromissos de saúde eficientemente. | Must |
+#### Gerenciador de Arquivos
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como usuário quero submeter arquivos e salvar no repositório | Must    |
+| Eu como usuário quero excluir arquivos                       | Must       |
+| Eu como usuário quero mostrar todos os arquivos              | Must       |
+
+#### Extração de PDF
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como usuário quero submeter um PDF                        | Must       |
+| Eu como usuário quero extrair informações do PDF por parâmetros | Should  |
+
+#### Compartilhamento de Dados de Saúde
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como administrador quero visualizar logs de dados compartilhados | Should |
+| Eu como administrador quero ferramentas de busca e filtragem de dados | Could |
+| Eu como administrador quero notificações sobre novos compartilhamentos | Could |
+| Eu como profissional quero mecanismos para feedback de dados | Could      |
+| Eu como administrador quero opções para correção de dados    | Should     |
+| Eu como administrador quero backup e recuperação de dados    | Must       |
+| Eu como administrador quero histórico de versões de dados    | Could      |
+
+#### Blockchain
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como administrador quero anonimização de dados            | Should     |
+| Eu como administrador quero dashboard para gerenciar transações | Should  |
+| Eu como administrador quero implementar medidas de segurança | Should     |
+| Eu como administrador quero backup regular                   | Must       |
+
+#### Cartão de Vacina
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como usuário quero submeter cartão de vacina              | Must       |
+| Eu como usuário quero alertar sobre vacinas que venceram     | Must       |
+| Eu como administrador quero informar novas vacinas           | Could      |
+
+#### Navegação Inicial
+| User Story (História de Usuário)                              | MoSCoW |
+|--------------------------------------------------------------|-----------------|
+| Eu como usuário quero explicação sobre a aplicação           | Must       |
+| Eu como usuário quero colocar demonstração de software       | Should     |
+| Eu como usuário quero colocar contato na landing page        | Should     |
+
 
 | Legenda MoSCoW | Descrição |
 |:--------------:|:---------:|
