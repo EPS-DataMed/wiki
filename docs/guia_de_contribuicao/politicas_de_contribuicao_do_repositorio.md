@@ -103,14 +103,14 @@ Observações
 
 ## Referências
 
-* College Flow. Github.io. Disponível em: <https://fga-eps-mds.github.io/CollegeFlow/#/policies>. Acesso em: 17 abr. 2024.
+* <article> College Flow. Github.io. Disponível em: https://fga-eps-mds.github.io/CollegeFlow/#/policies. Acesso em: 17 abr. 2024.</article>
 
-* Padrões e nomenclaturas no Git. Brunodulcetti.com. Disponível em: <https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/>. Acesso em: 17 abr. 2024.
+* <article> Padrões e nomenclaturas no Git. Brunodulcetti.com. Disponível em: https://www.brunodulcetti.com/padroes-e-nomenclaturas-no-git/. Acesso em: 17 abr. 2024.</article>
 
-* Writing Git commit messages. Tumblr. Disponível em: <https://365git.tumblr.com/post/3308646748/writing-git-commit-messages>. Acesso em: 17 abr. 2024.
+* <article> Writing Git commit messages. Tumblr. Disponível em: https://365git.tumblr.com/post/3308646748/writing-git-commit-messages. Acesso em: 17 abr. 2024.</article>
 
-* SIMOHAMED MARHRAOUI. Using stacked pull requests in GitHub - LogRocket Blog. LogRocket Blog. Disponível em: <https://blog.logrocket.com/using-stacked-pull-requests-in-github/>. Acesso em: 17 abr. 2024.
+* <article> SIMOHAMED MARHRAOUI. Using stacked pull requests in GitHub - LogRocket Blog. LogRocket Blog. Disponível em: https://blog.logrocket.com/using-stacked-pull-requests-in-github/. Acesso em: 17 abr. 2024.</article>
 
-* Acácia. Github.io. Disponível em: <https://fga-eps-mds.github.io/2019.2-Acacia/#/policies?id=pol%c3%adtica-de-migra%c3%a7%c3%b5es>. Acesso em: 17 abr. 2024.
+* <article> Acácia. Github.io. Disponível em: https://fga-eps-mds.github.io/2019.2-Acacia/#/policies?id=pol%c3%adtica-de-migra%c3%a7%c3%b5es. Acesso em: 17 abr. 2024.</article>
 
-* FACHAL, Manuel. Git-flow Applied to a Real Project - Empathy.co - Medium. Medium. Disponível em: <https://medium.com/empathyco/git-flow-applied-to-a-real-project-c08037e28f88>. Acesso em: 17 abr. 2024.
+* <article> FACHAL, Manuel. Git-flow Applied to a Real Project - Empathy.co - Medium. Medium. Disponível em: https://medium.com/empathyco/git-flow-applied-to-a-real-project-c08037e28f88. Acesso em: 17 abr. 2024.</article>

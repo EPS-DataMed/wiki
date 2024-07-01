@@ -7,7 +7,7 @@
 
 <br/>
 
-Neste documento, estão delineadas a estratégia de testes que será utilizada pelo [Grupo 01](/grupos/grupo_01?id=integrantes-do-grupo), a fim de garantir a qualidade do produto de software.
+Neste documento, estão delineadas a estratégia de testes que será utilizada pela equipe, a fim de garantir a qualidade do produto de software.
 
 ## Histórico de versões
 
@@ -27,7 +27,10 @@ Os repositórios de microserviços estão utilizando **_Python_** e **_pytest_**
 
 ## Referências
 
-- React: Uma biblioteca JavaScript para construir interfaces de usuário. Disponível em: https://reactjs.org/
-- TypeScript: Um superconjunto de JavaScript que adiciona tipagem estática. Disponível em: https://www.typescriptlang.org/
-- Jest: Uma estrutura de teste de código aberto mantida pelo Facebook. Disponível em: https://jestjs.io/
-- pytest: Uma estrutura de teste poderosa e fácil de usar para aplicações Python. Disponível em: https://docs.pytest.org/en/stable/
+* <div>TDD – Test Driven Development. Disponível em: <a href="https://example.com/tdd-introduction" target="_blank">https://example.com/tdd-introduction</a>. Acesso em: 16 abr. 2024.</div>
+* <div>React. Disponível em: <a href="https://reactjs.org/" target="_blank">https://reactjs.org/</a>. Acesso em: 16 abr. 2024.</div>
+* <div>TypeScript. Disponível em: <a href="https://www.typescriptlang.org/" target="_blank">https://www.typescriptlang.org/</a>. Acesso em: 16 abr. 2024.</div>
+* <div>Jest. Disponível em: <a href="https://jestjs.io/" target="_blank">https://jestjs.io/</a>. Acesso em: 16 abr. 2024.</div>
+* <div>React Testing Library. Disponível em: <a href="https://testing-library.com/docs/react-testing-library/intro/" target="_blank">https://testing-library.com/docs/react-testing-library/intro/</a>. Acesso em: 16 abr. 2024.</div>
+* <div>Python. Disponível em: <a href="https://www.python.org/" target="_blank">https://www.python.org/</a>. Acesso em: 16 abr. 2024.</div>
+* <div>pytest. Disponível em: <a href="https://docs.pytest.org/en/6.2.x/" target="_blank">https://docs.pytest.org/en/6.2.x/</a>. Acesso em: 16 abr. 2024.</div>

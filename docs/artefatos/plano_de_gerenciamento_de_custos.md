@@ -6,6 +6,11 @@
 
 <br/>
 
+Neste documento, são delineados os passos envolvidos na elaboração do Plano de Custos. Este plano é essencial para garantir uma gestão financeira eficaz e para assegurar que todos os recursos financeiros são utilizados de maneira eficiente e estratégica.
+
+
+## Histórico de versões
+
 | Versão |    Data    |                  Descrição                  |   Autor(es)   |  Revisor(es)  |
 | :----: | :--------: | :-----------------------------------------: | :-----------: | :-----------: |
 | `1.0`  | 07/05/2024 | Criação do Plano de Gerenciamento de Custos | Victor Amaral | Lucas Gabriel |
@@ -23,4 +28,5 @@ A planilha de custos pode ser observada na Figura 1 a seguir:
 
 ## Referências
 
-> [1] Raio-X do custo por aluno nas universidades federais. Infográficos - O Globo. Disponível em: <https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html>. Acesso em: 07 de maio de 2024.
+
+* <div> RAIO-X do custo por aluno nas universidades federais. Infográficos - O Globo. Disponível em: https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html. Acesso em: 07 maio 2024.</div>

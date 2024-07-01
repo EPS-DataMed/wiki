@@ -15,10 +15,6 @@ Este documento tem como objetivo apresentar os integrantes do Grupo 01 e fornece
 | :----: | :--------: | :------------------: | :--------------------------------------------------: | :---------: |
 | `1.0`  | 15/04/2024 | Criação do Documento | [Grupo 01](/grupos/grupo_01?id=integrantes-do-grupo) |      -      |
 
-## Contexto do Grupo
-
-O Grupo 01 está envolvido em um projeto para a disciplina EPS (Engenharia de Produto de Software). Este projeto tem como objetivo atender às necessidades do cliente Fernando Viana. O grupo será responsável por implementar as funcionalidades listadas no [Backlog do Produto referente ao Grupo 01](../grupos/grupo_01/backlog.md).
-
 ## Integrantes do Grupo
 
 | Integrante                          | 
@@ -32,13 +28,5 @@ O Grupo 01 está envolvido em um projeto para a disciplina EPS (Engenharia de Pr
 - **Daniel de Sousa Oliveira Melo Veras**: Desenvolvedor.
 - **Lucas Gabriel Sousa Camargo Paiva**: Desenvolvedor.
 - **Luiz Gustavo Dias Paes Pinheiro**: Desenvolvedor.
-
-## Metas e Objetivos
-
-As metas e objetivos do Grupo 01 incluem realizar as atividades previstas do Backlog do Produto.
-
-## Conclusão e Próximos Passos
-
-Em resumo, o Grupo 01 é composto por 4 membros dedicados que estão trabalhando diligentemente para alcançar as metas estabelecidas para o projeto. Os próximos passos incluem realizar as sprints de desenvolvimento assim como garantir a qualidade das entregas.
 
 

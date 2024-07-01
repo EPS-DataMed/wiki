@@ -1,11 +1,3 @@
-* **Planejamento**
-	* [Reuniões](reunioes/reunioes.md)
-	* [Métricas e Indicadores](sprint/metricas.md)
-		- [Sprint 0](sprint/sprint_0.md)
-		- [Sprint 1](sprint/sprint_1.md)
-		- [Sprint 2](sprint/sprint_2.md)
-		- [Sprint 3](sprint/sprint_3.md)
-
 * **Artefatos**
 	* [Lean Inception](reunioes/lean.md)
 	* [Plano de Testes e Qualidade](grupos/grupo_01/plano_de_teste_e_qualidade.md)
@@ -21,11 +13,17 @@
 * **Validação do Software**
 	* [Feedback](feedback/feedback.md)
 
-
 * **Entregas**
+	* [Entrega Final](relatorio/final.md)
 	* [Relatórios](relatorio/relatorios.md)
-		* [Primeiro Relatório](relatorio/primeiro.md)
-		* [Segundo Relatório](relatorio/segundo.md)
+
+* **Planejamento**
+	* [Reuniões](reunioes/reunioes.md)
+	* [Métricas e Indicadores](sprint/metricas.md)
+		- [Sprint 0](sprint/sprint_0.md)
+		- [Sprint 1](sprint/sprint_1.md)
+		- [Sprint 2](sprint/sprint_2.md)
+		- [Sprint 3](sprint/sprint_3.md)
 
 * **Estudos**
 	* [Processamento de Dados](estudos/dataprocess.md)

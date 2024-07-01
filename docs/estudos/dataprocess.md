@@ -54,5 +54,6 @@ O sistema é mais complexo do que o relatado aqui, mas de maneira geral e para s
 Este relatório detalha uma das possíveis abordagens para desenvolver um sistema para processamento de dados médicos a partir de arquivos PDF e integração com um formulário React. A combinação de uma API em Python para processamento de dados e um frontend React para interação com o usuário fornecerá uma solução eficaz e amigável para o gerenciamento de informações médicas dos pacientes. Mas ainda existem alguns detalhes importantes que precisam ser levados em consideração, como a robustez do sistema, a escalabilidade e a segurança. Além desta não ser a única opção viável, podendo e possivelmente sendo implementado em conjunto com outras opções, técnicas (OCR (Reconhecimento Óptico de Caracteres), Processamento de Linguagem Natural (NLP), Aprendizado de Máquina, Serviços de Processamento de Documentos em Nuvem). Todos os dados e informações aqui não são uma definição, mas ideias que serão levantadas e documentadas em discussões em grupo.
 
 ## Referências
-- Klippa Blog. "Extraindo dados de documentos PDF." Disponível em: [https://www.klippa.com/pt/blog/informacao/extrair-dados-documentos-pdf/](https://www.klippa.com/pt/blog/informacao/extrair-dados-documentos-pdf/)
-- YouTube. "Extraindo dados de PDF com Python." Disponível em: [https://www.youtube.com/watch?v=x9IDL8eruAw](https://www.youtube.com/watch?v=x9IDL8eruAw)
+
+* <div> Klippa Blog. Extraindo dados de documentos PDF. Disponível em: https://www.klippa.com/pt/blog/informacao/extrair-dados-documentos-pdf/. Acesso em: 07 maio 2024.</div>
+* <div> YouTube. Extraindo dados de PDF com Python. Disponível em: https://www.youtube.com/watch?v=x9IDL8eruAw. Acesso em: 07 maio 2024.</div>

@@ -15,32 +15,18 @@ Este documento tem como objetivo apresentar os integrantes do Grupo 02 e fornece
 | :----: | :--------: | :------------------: | :--------------------------------------------------: | :---------: |
 | `1.0`  | 15/04/2024 | Criação do Documento | [Grupo 02](/grupos/grupo_02?id=integrantes-do-grupo) |      -      |
 
-## Contexto do Grupo
-
-O Grupo 21 está envolvido em um projeto para a disciplina EPS (Engenharia de Produto de Software). Este projeto tem como objetivo atender às necessidades do cliente Fernando Viana. O grupo será responsável por implementar as funcionalidades listadas no [Backlog do Produto referente ao Grupo 01](/docs/backlog/backlog.md).
-
 ## Integrantes do Grupo
 
 | Integrante                          | 
 | ----------------------------------- |
 | Antonio Rangel Chaves              |
-| Kess Jhones Gomes Tavares |
 | Victor Amaral Cerqueira   |
 | Vítor Diniz Pagani Vieira Ribeiro     |
 
 ## Responsabilidades dos Integrantes
 
 - **Antonio Rangel Chaves**: Desenvolvedor.
-- **Kess Jhones Gomes Tavaress**: Desenvolvedor.
 - **Victor Amaral Cerqueira**: Desenvolvedor.
 - **Vítor Diniz Pagani Vieira Ribeiro**: Desenvolvedor.
-
-## Metas e Objetivos
-
-As metas e objetivos do Grupo 02 incluem realizar as Histórias de Usuário contidas no [Épico 2](/backlog/backlog?id=Épicos) - Gerência de Pacientes
-
-## Conclusão e Próximos Passos
-
-Em resumo, o Grupo 02 é composto por 4 membros dedicados que estão trabalhando diligentemente para alcançar as metas estabelecidas para o projeto. Os próximos passos incluem realizar as sprints de desenvolvimento assim como garantir a qualidade das entregas.
 
 

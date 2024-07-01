@@ -1,4 +1,20 @@
-# Plano de Gerenciamento de Riscos
+<br/>
+
+<div style="display: flex; flex-direction: column; justify-content: center; align-items:center;">
+    <img src="https://dansousamelo.github.io/RQ_ISP/assets/backlog/BACKLOG-ICON.png" width="200" height="200" style="filter: brightness(0%);" />
+</div>
+
+<br/>
+
+Neste documento, estão delineadas o plano de risco do projeto. Este plano aborda de maneira detalhada as potenciais ameaças que podem impactar o andamento das atividades, bem como as estratégias propostas para mitigação desses riscos. A identificação e análise de riscos foram realizadas através de uma combinação de técnicas qualitativas e quantitativas, garantindo uma visão abrangente e precisa dos possíveis obstáculos. Além disso, são descritas as responsabilidades dos membros da equipe em relação à gestão de riscos, incluindo a implementação de ações preventivas e corretivas.
+
+## Histórico de versões
+
+Esta seção apresenta o histórico de versões do documento, detalhando as mudanças realizadas e os responsáveis por cada alteração.
+
+| Versão |    Data    |              Descrição               |                      Autor(es)                       | Revisor(es) |
+| :----: | :--------: | :----------------------------------: | :--------------------------------------------------: | :---------: |
+| `1.0`  | 16/04/2024 | Criando documento de Plano de Risco | Vitor Diniz |      -      |
 
 ## Introdução
 
@@ -17,6 +33,8 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 ### Probabilidade e impacto dos riscos
 
+A tabela a seguir define os níveis de probabilidade e impacto dos riscos, proporcionando uma base para a avaliação dos riscos identificados.
+
 | Nível | Probabilidade | Porcentagem de certeza |
 | :---: | :---: | :---: |
 | 1 | Muito baixa | 0% - 19% |
@@ -26,6 +44,8 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 | 5 | Muito alta | 80% - 100% |
 
 ### Impacto
+
+A tabela a seguir descreve os níveis de impacto dos riscos, auxiliando na determinação da gravidade de cada risco identificado.
 
 | Nível | Impacto |
 | :---: | :---: |
@@ -37,6 +57,8 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 ### Matriz de probablidade X impacto
 
+A matriz de probabilidade e impacto combina as informações das tabelas anteriores para fornecer uma avaliação detalhada dos riscos.
+
 | Probabilidade / Impacto | Muito baixo | Baixo | Médio | Alto | Muito alto |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | Muito baixa | 1 | 2 | 3 | 4 | 5 |
@@ -47,6 +69,8 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 ### Graus de risco
 
+Os graus de risco são determinados pela matriz de probabilidade e impacto, conforme mostrado na tabela a seguir.
+
 | Grau | Risco |
 | :---: | :---: |
 | 1 - 5 | Baixo |
@@ -56,6 +80,8 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 ## Levantamento de riscos
 
 ### Tabela de Riscos
+
+A tabela a seguir lista os riscos identificados para o projeto, junto com suas descrições e categorias correspondentes.
 
 | Risco | Descrição                                         | Categoria      |
 |-------|---------------------------------------------------|----------------|
@@ -79,6 +105,8 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 ### Causas e Consequências dos Riscos
 
+A tabela a seguir detalha as causas e consequências de cada risco identificado, permitindo uma compreensão aprofundada de cada risco.
+
 | Risco | Causa                                             | Consequência |
 |-------|---------------------------------------------------|--------------|
 | R01   | Inexperiência com as tecnologias utilizadas       | Baixa qualidade do produto e atrasos nas entregas |
@@ -100,6 +128,8 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 | R17   | Falta de sincronia nas atividades                 | Obstrução no avanço de outras tarefas |
 
 ### Prevenção e Ações para os Riscos
+
+A tabela a seguir apresenta as medidas de prevenção e as ações propostas para cada risco identificado.
 
 | Risco | Prevenção                                         | Ação |
 |-------|---------------------------------------------------|------|
@@ -124,11 +154,6 @@ Para a classificação dos riscos, foram consideradas as seguintes categorias:
 
 ## Referências
 
-> [1] Escritório de Projetos. Objetivo do Plano de gerenciamento dos riscos. Disponível em: https://escritoriodeprojetos.com.br/downloads/send/8-modelos/129-plano-de-gerenciamento-dos-riscos. Acesso em: 30/04/2024.
+* <div> ESCRITÓRIO de Projetos. Objetivo do Plano de gerenciamento dos riscos. Disponível em: https://escritoriodeprojetos.com.br/downloads/send/8-modelos/129-plano-de-gerenciamento-dos-riscos. Acesso em: 30 abr. 2024.</div>
 
-> [2] Isotani, Seiji; Rocha, Rafaela. Gestão de Riscos em Projetos de Software. Disponível em: https://edisciplinas.usp.br/pluginfile.php/3385127/mod_resource/content/1/Aula10-GerenciaProjeto-Riscos.pdf. Acesso em: 30/04/2024.
-
-## Versionamento
-| Data | Modificação | Autor |
-|--|--|--|
-| 30/04/2024 | Criação do documento | Vitor Diniz |
+* <div>ISOTANI, Seiji; ROCHA, Rafaela. Gestão de Riscos em Projetos de Software. Disponível em: https://edisciplinas.usp.br/pluginfile.php/3385127/mod_resource/content/1/Aula10-GerenciaProjeto-Riscos.pdf. Acesso em: 30 abr. 2024.</div>

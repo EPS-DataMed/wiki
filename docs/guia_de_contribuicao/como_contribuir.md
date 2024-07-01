@@ -36,11 +36,7 @@ Nessa etapa, realize os passos a seguir:
 - 4º - Selecione um desenvolvedor do projeto para realizar a revisão do seu pull request
 
 ## Referências
-<!-- 
-* Contributor Covenant: A Code of Conduct for Open Source and Other Digital Commons Communities. Contributor-covenant.org. Disponível em: <https://www.contributor-covenant.org/>. Acesso em: 17 abr. 2024. -->
 
-* TEAMMATES - Contributing. Github.io. Disponível em: <https://teammates.github.io/teammates/contributing-doc.html>. Acesso em: 17 abr. 2024.
-‌
-* Acácia. Github.io. Disponível em: <https://fga-eps-mds.github.io/2019.2-Acacia/#/contributing>. Acesso em: 17 abr. 2024.
+* <article> Acácia. Github.io. Disponível em: https://fga-eps-mds.github.io/2019.2-Acacia/#/policies?id=pol%c3%adtica-de-migra%c3%a7%c3%b5es. Acesso em: 17 abr. 2024.</article>
 
-‌
+* <article> TEAMMATES - Contributing. Github.io. Disponível em: https://teammates.github.io/teammates/contributing-doc.html. Acesso em: 17 abr. 2024.</article>

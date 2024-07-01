@@ -6,4 +6,14 @@
 
 <br/>
 
-Nesta seção, encontram-se documentados todos os relatórios realizados pela equipe ao longo do projeto.</p>
+Nesta seção, encontram-se documentados todos os relatórios realizados pela equipe.</p>
+
+
+# Relatórios
+Abaixo estão os links para os relatórios:
+
+<br/>
+• <a href="#/relatorio/primeiro">Primeiro Relatório</a>
+<br/>
+• <a href="#/relatorio/segundo">Segundo Relatório</a>
+<br/>
