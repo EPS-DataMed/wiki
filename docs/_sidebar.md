@@ -19,11 +19,7 @@
 
 * **Planejamento**
 	* [Reuniões](reunioes/reunioes.md)
-	* [Métricas e Indicadores](sprint/metricas.md)
-		- [Sprint 0](sprint/sprint_0.md)
-		- [Sprint 1](sprint/sprint_1.md)
-		- [Sprint 2](sprint/sprint_2.md)
-		- [Sprint 3](sprint/sprint_3.md)
+	* [Sprint Overview](desenvolvimento/sprints.md)
 
 * **Estudos**
 	* [Processamento de Dados](estudos/dataprocess.md)
