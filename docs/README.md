@@ -1,6 +1,6 @@
 ## Sobre
 
-O DataMed é uma aplicação web cuja função é ajudar pacientes a compreenderem melhor informações sobre sua saúde de uma maneira intuitiva e prática, e possibilitar a negociação de dados dos mesmos com profissionais da área da saúde a fim de facilitar pesquisas médicas.
+O DataMed é uma aplicação web cuja função é ajudar pacientes a compreenderem melhor informações sobre sua saúde de uma maneira intuitiva e prática.
 
 **Documentação disponível em:** <a href="https://eps-datamed.github.io/wiki"><u>DataMed - Wiki</u></a>
 
