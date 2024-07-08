@@ -2,9 +2,12 @@
 
 O **DataMed** é uma plataforma de saúde que permite aos usuários submeter exames médicos e gerar cartões de saúde impressos. Além disso, oferece funcionalidades de gestão de saúde para múltiplos usuários, como pais ou cuidadores. A plataforma visa facilitar a submissão de exames médicos e proporcionar acesso fácil e seguro às informações de saúde em situações de emergência. Também é projetada para ser intuitiva e segura, atendendo às necessidades de usuários comuns, médicos e desenvolvedores.
 
- **A organização da aplicação pode ser acessada em:** [**DataMed - Organização**](https://github.com/EPS-DataMed)
+<br/>
+• A organização da aplicação pode ser acessada em:<a href="https://github.com/EPS-DataMed" style="text-decoration: underline !important; color: #2980B9 !important;">DataMed - Organização</a>
+<br/>
+• A aplicação pode ser acessada em:<a href="https://datamed-bwaw.onrender.com/" style="text-decoration: underline !important; color: #2980B9 !important;">DataMed - Aplicação web</a>
+<br/>
 
- **A aplicação pode ser acessada em:** [**DataMed - Aplicação web**](https://datamed-bwaw.onrender.com/)
 
 ## 🎥 Pitch
 

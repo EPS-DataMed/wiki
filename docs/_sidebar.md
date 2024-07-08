@@ -5,6 +5,7 @@
 	* [Plano de Custos](artefatos/plano_de_gerenciamento_de_custos.md)
 	* [Protótipo](prototipo/prototipo.md)
 	* [Backlog](backlog/backlog.md)
+	* [Guia de Estilo](style/style-guide.md)
 
 * **Arquitetura**
 	* [Componentes](microservice/microservice.md)
