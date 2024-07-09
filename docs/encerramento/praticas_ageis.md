@@ -7,7 +7,7 @@ Este documento tem como objetivo descrever as práticas ágeis aplicadas no dese
 
 | Versão | Data | Modificação | Autor |
 |--|--|--|--|
-|0.1| 08/07/2024 | Criação do documento | Vitor Diniz |
+|1.0| 08/07/2024 | Criação do documento | Vitor Diniz |
 
 ## 1. Metodologias Ágeis Utilizadas
 
