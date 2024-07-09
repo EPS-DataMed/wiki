@@ -21,6 +21,7 @@
 
 * **Encerramento**
 	* [Plano de encerramento](encerramento/documento_de_encerramento.md)
+	* [Práticas Ágeis](encerramento/praticas_ageis.md)
 
 * **Planejamento**
 	* [Reuniões](reunioes/reunioes.md)
