@@ -141,4 +141,4 @@ Com base nos cálculos realizados, o projeto DataMed demonstra ser financeiramen
 
 * <div> RAIO-X do custo por aluno nas universidades federais. Infográficos - O Globo. Disponível em: https://infograficos.oglobo.globo.com/brasil/raio-x-do-custo-por-aluno-nas-universidades-federais.html. Acesso em: 07 maio 2024.</div>
 * <div> Salários em TI: veja quanto paga cada carreira na área, segundo consultoria - Disponivel em: https://g1.globo.com/tecnologia/noticia/2022/05/07/salarios-em-ti-veja-quanto-paga-cada-carreira-na-area-segundo-consultoria.ghtml</div>
-<div> Decisões Empresariais Sob a Lupa Monetária: Estratégias para o Sucesso por Meio da Avaliação Financeira de Projetos - Disponivel em: https://gpro.fia.com.br/newsletter/avaliacao-financeira-de-projetos/ </div>
+* <div> Decisões Empresariais Sob a Lupa Monetária: Estratégias para o Sucesso por Meio da Avaliação Financeira de Projetos - Disponivel em: https://gpro.fia.com.br/newsletter/avaliacao-financeira-de-projetos/ </div>
