@@ -1,32 +1,30 @@
+* **Planejamento**
+	* [Reuniões](reunioes/reunioes.md)
+	* [Sprint Overview](desenvolvimento/sprints.md)
+
 * **Artefatos**
 	* [Lean Inception](reunioes/lean.md)
+	* [Práticas Ágeis](artefatos/praticas_ageis.md)
+	* [Plano de Comunicação](artefatos/plano_de_comunicacao.md)
 	* [Plano de Testes](artefatos/plano_de_teste.md)
 	* [Documento de Qualidade](artefatos/documento_de_qualidade.md)
-	* [Plano de Riscos](sprint/plano_gerenciamento_riscos.md)
+	* [Plano de Riscos](artefatos/plano_gerenciamento_riscos.md)
 	* [Plano de Custos](artefatos/plano_de_gerenciamento_de_custos.md)
-	* [Plano de Comunicação](artefatos/plano_de_comunicacao.md)
+	* [Guia de Estilo](style/style-guide.md)
 	* [Protótipo](prototipo/prototipo.md)
 	* [Backlog](backlog/backlog.md)
-	* [Guia de Estilo](style/style-guide.md)
+	* [Documento de encerramento](artefatos/documento_de_encerramento.md)
 
 * **Arquitetura**
 	* [Componentes](microservice/microservice.md)
 	* [Tecnologias](arquitetura/arquetura.md)
 
+* **Entregas**
+	* [Relatórios](relatorio/relatorios.md)
+	* [Entrega Final](relatorio/final.md)
+
 * **Validação do Software**
 	* [Feedback](feedback/feedback.md)
-
-* **Entregas**
-	* [Entrega Final](relatorio/final.md)
-	* [Relatórios](relatorio/relatorios.md)
-
-* **Encerramento**
-	* [Plano de encerramento](encerramento/documento_de_encerramento.md)
-	* [Práticas Ágeis](encerramento/praticas_ageis.md)
-
-* **Planejamento**
-	* [Reuniões](reunioes/reunioes.md)
-	* [Sprint Overview](desenvolvimento/sprints.md)
 
 * **Estudos**
 	* [Processamento de Dados](estudos/dataprocess.md)
