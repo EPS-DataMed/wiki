@@ -18,6 +18,9 @@
 	* [Entrega Final](relatorio/final.md)
 	* [Relatórios](relatorio/relatorios.md)
 
+* **Encerramento**
+	* [Plano de encerramento](encerramento/documento_de_encerramento.md)
+
 * **Planejamento**
 	* [Reuniões](reunioes/reunioes.md)
 	* [Sprint Overview](desenvolvimento/sprints.md)
