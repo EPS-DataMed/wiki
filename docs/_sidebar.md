@@ -36,6 +36,5 @@
 
 * **Grupos**
 	* [Grupo 01](grupos/grupo_01)
-		* [Reuniões Grupo 01](reunioes_grupo01/reunioes.md)
 	* [Grupo 02](grupos/grupo_02)
 

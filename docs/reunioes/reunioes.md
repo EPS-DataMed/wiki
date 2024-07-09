@@ -52,3 +52,18 @@ Abaixo estão os links para a ata de cada reunião:
 • <a href="#/reunioes/ata_17_05_2024">Ata 17/05/2024</a>
 <br/>
 • <a href="#/reunioes/ata_18_05_2024">Ata 18/05/2024</a>
+<br/>
+• <a href="#/reunioes/ata_22_05_2024">Ata 22/05/2024</a>
+<br/>
+• <a href="#/reunioes/ata_23_05_2024">Ata 23/05/2024</a>
+<br/>
+• <a href="#/reunioes/ata_29_05_2024">Ata 29/05/2024</a>
+<br/>
+• <a href="#/reunioes/ata_30_05_2024">Ata 30/05/2024</a>
+<br/>
+• <a href="#/reunioes/ata_05_06_2024">Ata 05/06/2024</a>
+<br/>
+• <a href="#/reunioes/ata_12_06_2024">Ata 12/06/2024</a>
+<br/>
+• <a href="#/reunioes/ata_19_06_2024">Ata 19/06/2024</a>
+
