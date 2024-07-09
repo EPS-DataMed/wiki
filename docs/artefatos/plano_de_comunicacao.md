@@ -7,20 +7,19 @@ Este documento possui a finalidade de elucidar como foi organizada e estruturada
 
 Utilizaremos as seguintes ferramentas conforme a finalidade de cada uma:
 
-|**Nome**|**Finalidade**|
+|Nome|Finalidade|
 |-------------|---------|
 |Discord|Comunicação rápida entre a equipe, além da comunicação e organização interna |
 |Microsoft Teams| Reuniões internas da equipe que necessitem de gravação e reuniões com o *product owner*|
 |Telegram|Comunicação rápida e de acesso fácil entre os integrantes da equipe de EPS |
 |Github|Repositório com os documentos, arquivos, códigos, gerenciamento dentre outros recursos relacionados ao projeto|
+|Figma| Confecção do protótipo de alta fidelidade |
 
 ## 3. Ferramentas para desenvolvimento
-|**Nome**|**Finalidade**|
+|Nome|Finalidade|
 |-------------|---------|
 |Visual Studio Code| Edição de texto |
-|Microsoft Teams| Reuniões internas da equipe que necessitem de gravação e reuniões com o *product owner*|
-|Telegram|Comunicação rápida e de acesso fácil entre os integrantes da equipe de EPS |
-|Github|Repositório com os documentos, arquivos, códigos, gerenciamento dentre outros recursos relacionados ao projeto|
+
 
 ## 3. Reuniões
 
@@ -28,11 +27,10 @@ Considerando que as _sprints_ serão de 1 semana, teremos reuniões internas e e
 
 ### 3.1 Reuniões Internas
 
-Se referem à equipe de EPS e MDS envolvidos diretamente com o projeto.
 
-|**Objetivo**|**Envolvidos**|**Frequência**|**Dia e Horário**|**Meio**|**Ferramenta**|
+|Objetivo|Envolvidos|Frequência|Dia e Horário|Meio|Ferramenta|
 |------------|--------------|--------------|-----------|--------|--------|
-| Planejamento de *sprint* | EPS | Semanal | Quarta-feira, das 20h às 21h | Remoto | Discord/Teams |
+| Retrospectiva e Planejamento de *sprint* | EPS | Semanal | Quarta-feira, das 20h às 21h | Remoto | Discord/Teams |
 
 **OBS**: Reuniões com o *product owner* e acompanhamentos podem ser realizados sob demanda.
 
