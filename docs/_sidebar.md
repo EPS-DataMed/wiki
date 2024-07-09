@@ -1,6 +1,7 @@
 * **Artefatos**
 	* [Lean Inception](reunioes/lean.md)
-	* [Plano de Testes e Qualidade](grupos/grupo_01/plano_de_teste_e_qualidade.md)
+	* [Plano de Testes](artefatos/plano_de_teste.md)
+	* [Documento de Qualidade](artefatos/documento_de_qualidade.md)
 	* [Plano de Riscos](sprint/plano_gerenciamento_riscos.md)
 	* [Plano de Custos](artefatos/plano_de_gerenciamento_de_custos.md)
 	* [Protótipo](prototipo/prototipo.md)
@@ -30,7 +31,6 @@
 
 * **Contribuição**
 	* [Como contribuir](guia_de_contribuicao/como_contribuir.md)
-	<!-- * [Código de conduta](guia_de_contribuicao/codigo_de_conduta.md) -->
 	* [Políticas de contribuições](guia_de_contribuicao/politicas_de_contribuicao_do_repositorio.md)
 
 * **Grupos**
