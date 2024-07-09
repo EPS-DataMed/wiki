@@ -4,6 +4,7 @@
 	* [Documento de Qualidade](artefatos/documento_de_qualidade.md)
 	* [Plano de Riscos](sprint/plano_gerenciamento_riscos.md)
 	* [Plano de Custos](artefatos/plano_de_gerenciamento_de_custos.md)
+	* [Plano de Comunicação](artefatos/plano_de_comunicacao.md)
 	* [Protótipo](prototipo/prototipo.md)
 	* [Backlog](backlog/backlog.md)
 	* [Guia de Estilo](style/style-guide.md)
