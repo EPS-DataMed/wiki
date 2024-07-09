@@ -17,3 +17,5 @@ Abaixo estão os links para os relatórios:
 <br/>
 • <a href="#/relatorio/segundo">Segundo Relatório</a>
 <br/>
+• <a href="#/relatorio/terceiro">Terceiro Relatório</a>
+<br/>
